@@ -27,8 +27,8 @@ export default function Lakasfelugyelet() {
               Rendszeres ellenőrzés
             </h2>
             <p>
-              Lakása állapotának rendszeres ellenőrzése, szellőztetés, víz és
-              elektromos rendszerek felügyelete.
+              Lakása állapotának rendszeres ellenőrzése, szellőztetés, postaláda
+              ürités, víz és elektromos rendszerek felügyelete.
             </p>
           </CardContent>
         </Card>
